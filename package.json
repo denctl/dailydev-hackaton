@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2",
+    "replace-in-file": "^6.3.2",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.5",
+    "xml-js": "^1.6.11",
+    "xml2json": "^0.12.0"
+  }
+}
